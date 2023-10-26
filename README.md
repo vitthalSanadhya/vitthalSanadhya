@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitthal Sanadhya</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vs-01&label=Profile%20views&color=0e75b6&style=flat" alt="vs-01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vs-01" alt="vs-01" /></a> </p>
-
 - 📫 How to reach me **vitthal.sanadhya22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,3 +14,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vs-01&show_icons=true&locale=en&layout=compact" alt="vs-01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vs-01&" alt="vs-01" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vs-01&label=Profile%20views&color=0e75b6&style=flat" alt="vs-01" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vs-01" alt="vs-01" /></a> </p>
+<img src="https://media0.giphy.com/media/PI3QGKFN6XZUCMMqJm/200.webp?cid=ecf05e478svqjjrsos4nyc0qq604qrujjhwbc3khlcm7z6x4&ep=v1_gifs_related&rid=200.webp&ct=g" alt="coding">
+
