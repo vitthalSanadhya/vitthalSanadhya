@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <h2 align="center">📫 How to reach me -- vitthal.sanadhya22@gmail.com</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vs-01&label=Profile%20views&color=0e75b6&style=flat" alt="vs-01" /> </p>
-
+<img align="right" width="500px" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <h3 align="left">Connect with me:</h3>
-<img align="right" width="380px" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <p align="left">
 <a href="https://linkedin.com/in/vitthal sanadhya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitthal sanadhya" height="30" width="40" /></a>
 <a href="https://instagram.com/vitthal_1810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vitthal_1810" height="30" width="40" /></a>
