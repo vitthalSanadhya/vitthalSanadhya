@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitthal Sanadhya</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vs-01&label=Profile%20views&color=0e75b6&style=flat" alt="vs-01" /> </p>
-- 📫 How to reach me **vitthal.sanadhya22@gmail.com**
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=vs-01&label=Profile%20views&color=0e75b6&style=flat" alt="vs-01" /> </p>
+<h3 align="center">📫 How to reach me -- vitthal.sanadhya22@gmail.com</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
