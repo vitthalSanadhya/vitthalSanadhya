@@ -16,6 +16,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vs-01&show_icons=true&locale=en&layout=compact" alt="vs-01" /></p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=vs-01"  alt="vs-01" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=vs-01&theme=algolia"  alt="vs-01" /></a> </p>
 <!-- -->
 <!-- "https://github-profile-trophy.vercel.app/?username=vs-01" -->
