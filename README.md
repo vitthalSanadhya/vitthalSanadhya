@@ -9,7 +9,6 @@
 <a href="https://instagram.com/vitthal_1810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vitthal_1810" height="30" width="40" /></a>
 </p>
 
-![157-5-Predictions-about-the-future-of-Data-Analytics](https://github.com/VS-01/VS-01/assets/77016445/9a5994b1-7b7b-4478-8030-8202b4cdea34)
 
 
 <h3 align="left">Languages and Tools:</h3>
